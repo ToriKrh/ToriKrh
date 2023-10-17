@@ -13,10 +13,15 @@ SKILLS
  *Technologies (programming languages, frameworks, databases)
 
 *SDLC, Waterfall, Scrum, Kanban concepts
+
 *Sourcing (Boolean Search, X-Ray) - LinkedIn, GitHub, Behance, Stack Overflow, Kaggle, Dou, Meetup
+
 *CV Screening / Candidates Screening, Vacancy Creation and Posting
+
 *Candidates Database Management, Mails and communication, Feedback and Job Offer
+
 *Employer and recruitment brand, Ethical Recruiting
+
 *English: Intermediate
 *French: Fluent
 *Polish: Beginner
