@@ -30,6 +30,9 @@ ___-French: Fluent___
 
 ___-Polish: Beginner___
 
+---
+
+
 📫 How to reach me:
  
  [LinkedIn](https://www.linkedin.com/in/viktoriia-kurhanevych/)
