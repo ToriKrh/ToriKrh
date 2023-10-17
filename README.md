@@ -2,29 +2,33 @@
 
 Experienced IT Recruiter with intermediate English proficiency, full-cycle recruitment expertise, and a background in screening, sourcing, interviewing, vacancy creation, email writing, and feedback. With 3.5 years in customer support and 2 years in sales, I have honed valuable soft skills such as negotiation, persuasion, and effective communication, including business correspondence. This allowed me to establish a culture of professional communication with clients, expand the market segment I managed, and surpass sales targets, achieving a remarkable 94% increase during off-season months and an 83% increase by low season. I am a quick learner and consistently delivered profits ahead of schedule. Additionally, my background as a French philologist and teacher equips me to mentor and educate new colleagues, and my leadership abilities have enabled me to implement successful departmental strategies and step in as a team leader when needed.
 
-SKILLS
+---
 
-+Good understanding of IT Market:
+__SKILLS__
 
- +Companies types (outsourcing, outstaff, product)
+-Good understanding of IT Market:
 
- *Tech (Developers, QA, DevOps) and non-tech (Marketing, Management, Sales) roles
+  -Companies types (outsourcing, outstaff, product)
 
- *Technologies (programming languages, frameworks, databases)
+  -Tech (Developers, QA, DevOps) and non-tech (Marketing, Management, Sales) roles
 
-*SDLC, Waterfall, Scrum, Kanban concepts
+  -Technologies (programming languages, frameworks, databases)
 
-*Sourcing (Boolean Search, X-Ray) - LinkedIn, GitHub, Behance, Stack Overflow, Kaggle, Dou, Meetup
+  -SDLC, Waterfall, Scrum, Kanban concepts
 
-*CV Screening / Candidates Screening, Vacancy Creation and Posting
+-Sourcing (Boolean Search, X-Ray) - LinkedIn, GitHub, Behance, Stack Overflow, Kaggle, Dou, Meetup
 
-*Candidates Database Management, Mails and communication, Feedback and Job Offer
+-CV Screening / Candidates Screening, Vacancy Creation and Posting
 
-*Employer and recruitment brand, Ethical Recruiting
+-Candidates Database Management, Mails and communication, Feedback and Job Offer
 
-*English: Intermediate
-*French: Fluent
-*Polish: Beginner
+-Employer and recruitment brand, Ethical Recruiting
+
+___-English: Intermediate___
+
+___-French: Fluent___
+
+___-Polish: Beginner___
 
 📫 How to reach me:
  
