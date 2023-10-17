@@ -2,10 +2,25 @@
 
 Experienced IT Recruiter with intermediate English proficiency, full-cycle recruitment expertise, and a background in screening, sourcing, interviewing, vacancy creation, email writing, and feedback. With 3.5 years in customer support and 2 years in sales, I have honed valuable soft skills such as negotiation, persuasion, and effective communication, including business correspondence. This allowed me to establish a culture of professional communication with clients, expand the market segment I managed, and surpass sales targets, achieving a remarkable 94% increase during off-season months and an 83% increase by low season. I am a quick learner and consistently delivered profits ahead of schedule. Additionally, my background as a French philologist and teacher equips me to mentor and educate new colleagues, and my leadership abilities have enabled me to implement successful departmental strategies and step in as a team leader when needed.
 
+SKILLS
+
+Good understanding of IT Market:
+Companies types (outsourcing, outstaff, product)
+Tech (Developers, QA, DevOps) and non-tech (Marketing, Management, Sales) roles
+Technologies (programming languages, frameworks, databases)
+SDLC, Waterfall, Scrum, Kanban concepts
+Sourcing (Boolean Search, X-Ray) - LinkedIn, GitHub, Behance, Stack Overflow, Kaggle, Dou, Meetup
+CV Screening / Candidates Screening, Vacancy Creation and Posting
+Candidates Database Management, Mails and communication, Feedback and Job Offer
+Employer and recruitment brand, Ethical Recruiting
+English: Intermediate
+French: Fluent
+Polish: Beginner
+
 📫 How to reach me:
  
  [LinkedIn](https://www.linkedin.com/in/viktoriia-kurhanevych/)
  
  [DOU](https://dou.ua/users/viktoriia-kurhanevych/)
 
-[My CV](https://www.linkedin.com/in/viktoriia-kurhanevych/)
+[My CV PDF](https://drive.google.com/file/d/11bWCE2COEe9SKQewtKmbK-RhVW4RYSYy/view?usp=sharing) [My CV in CkickUp](https://doc.clickup.com/9012023078/p/h/8cjh3t6-472/a295cf41eaf70f4)
