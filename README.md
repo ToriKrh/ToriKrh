@@ -4,9 +4,9 @@ Experienced IT Recruiter with intermediate English proficiency, full-cycle recru
 
 SKILLS
 
-*Good understanding of IT Market:
++Good understanding of IT Market:
 
- *Companies types (outsourcing, outstaff, product)
+ +Companies types (outsourcing, outstaff, product)
 
  *Tech (Developers, QA, DevOps) and non-tech (Marketing, Management, Sales) roles
 
