@@ -6,7 +6,7 @@ Experienced IT Recruiter with intermediate English proficiency, full-cycle recru
 
 __SKILLS__
 
--Good understanding of IT Market:
+_1.Good understanding of IT Market:_
 
   -Companies types (outsourcing, outstaff, product)
 
@@ -16,13 +16,13 @@ __SKILLS__
 
   -SDLC, Waterfall, Scrum, Kanban concepts
 
--Sourcing (Boolean Search, X-Ray) - LinkedIn, GitHub, Behance, Stack Overflow, Kaggle, Dou, Meetup
+_2.Sourcing (Boolean Search, X-Ray) - LinkedIn, GitHub, Behance, Stack Overflow, Kaggle, Dou, Meetup_
 
--CV Screening / Candidates Screening, Vacancy Creation and Posting
+_3.CV Screening / Candidates Screening, Vacancy Creation and Posting_
 
--Candidates Database Management, Mails and communication, Feedback and Job Offer
+_4.Candidates Database Management, Mails and communication, Feedback and Job Offer_
 
--Employer and recruitment brand, Ethical Recruiting
+_5.Employer and recruitment brand, Ethical Recruiting_
 
 ___-English: Intermediate___
 
