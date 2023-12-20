@@ -39,6 +39,6 @@ ___-Polish: Beginner___
  
  [DOU](https://dou.ua/users/viktoriia-kurhanevych/)
 
-[My CV PDF](https://drive.google.com/file/d/11bWCE2COEe9SKQewtKmbK-RhVW4RYSYy/view?usp=sharing) 
+[My CV PDF](https://drive.google.com/file/d/1ogj7X55R57bXuPLYu9RW4AeLVI9TrfY9/view?usp=drive_link) 
 
 [My CV in CkickUp](https://doc.clickup.com/9012023078/p/h/8cjh3t6-472/a295cf41eaf70f4)
